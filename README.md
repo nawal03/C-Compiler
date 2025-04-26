@@ -7,5 +7,5 @@ This project is a custom C compiler built for a simplified subset of the C progr
 - **Lexical Analysis**: Implemented using **Flex** to tokenize C source code
 - **Syntax & Semantic Analysis**: Implemented using **Bison** with grammar rules and semantic checks
 - **Symbol Table**: Developed in **C++**, handles variable declarations, types, and scopes
-- **Intermediate Code Generation**: Produces optimized **Intel 8086 assembly** instructions as output
+- **Intermediate Code Generation**: Produces optimized **Intel 8086 assembly** instructions on the fly as output
 
